@@ -1,0 +1,50 @@
+.navbar-brand img{
+    width: 150px;
+    height: auto;
+}
+ul{
+    text-align: center;
+}
+.navbar-expand-lg{
+    background-color: white;
+
+}
+.nav-link{
+    text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.content div{
+    width:auto;
+    height: auto;
+    border: 2px solid black;
+    border-radius:  10px;;
+    background-color: green;
+    margin: 30px;
+
+}
+.head{
+    position: relative;
+    left: 60px;
+}
+hr{
+    width: 95%;
+}
+button{
+    position: relative;
+    left:50px;
+}
+.card {
+    position: relative;
+    left: 50px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.btn-group-sm > .btn {
+    margin-right: 40px; /* Adjust this value to set the desired space between buttons */
+    border: none;
+  }
